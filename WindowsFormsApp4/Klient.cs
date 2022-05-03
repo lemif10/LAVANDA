@@ -8,7 +8,7 @@ namespace WindowsFormsApp4
 {
     class Klient : Person
     {
-        public int idKlienta;
+        public int работаетИлиНет;
 
         public string DataRozdeniya;
 
